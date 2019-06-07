@@ -5,7 +5,7 @@ function Home() {
   return (
     <div>
       <p>
-        "hi"
+        "dog"
       </p>
     </div>
   );
