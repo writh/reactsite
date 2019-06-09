@@ -7,6 +7,9 @@ function Home() {
       <p>
         "dog"
       </p>
+      <p>
+        "cat"
+      </p>
     </div>
   );
 }
