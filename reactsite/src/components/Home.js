@@ -9,6 +9,7 @@ function Home() {
       </p>
       <p>
         "cat"
+        "horse"
       </p>
     </div>
   );
